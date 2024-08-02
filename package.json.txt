@@ -1,0 +1,2 @@
+to create package.json file you have to type command given below:
+Command:npm package.json
